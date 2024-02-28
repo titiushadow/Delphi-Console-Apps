@@ -10,7 +10,7 @@ uses
 
 var
   nome: string;
-  i: Integer;
+  timer: Integer;
 
 begin
     // Pega o nome digitado e imprime na tela.
@@ -23,9 +23,9 @@ begin
     ReadLn;
 
     // Contagem regressiva para fechar a aplicação.
-    for i := 3 downto 1 do
+    for timer := 3 downto 1 do
     begin
-      WriteLn('Saindo em ', i, '...');
+      WriteLn('Saindo em ', timer, '...');
       Sleep(1000);
     end;
 
