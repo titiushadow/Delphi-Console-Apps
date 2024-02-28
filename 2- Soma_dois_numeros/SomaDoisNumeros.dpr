@@ -19,7 +19,6 @@ begin
   WriteLn('Digite o segundo numero: ');
   ReadLn(n2);
 
-
   // Calcula a soma dos numeros n1 e n2 e armazenar na variavel 'result'.
   result := n1 + n2;
 
