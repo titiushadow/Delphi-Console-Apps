@@ -2,7 +2,7 @@
 
 - [x] 1 - **Saudação:** Criar um programa que solicite ao usuário que insira seu nome e exiba uma saudação personalizada, como "Olá, [nome]!".
 
-- [ ] 2 - **Soma de Dois Números:** Criar um programa que peça ao usuario dois numeros e exibe a soma deles.
+- [x] 2 - **Soma de Dois Números:** Criar um programa que peça ao usuario dois numeros e exibe a soma deles.
 
 - [ ] 3 - **Calculadora Simples:** Criar um programa que permita ao usuário inserir dois números e escolher uma operação matemática básica ("+, -, *, /") para realizar com esses números.
 
