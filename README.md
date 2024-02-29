@@ -10,7 +10,7 @@
 
 - [x] 5 - **Conversão de Temperatura:** Criar um programa que permita ao usuário inserir uma temperatura em graus Celsius e converta-a para Fahrenheit.
 
-- [ ] 6 - **Tabuada:** Criar um programa que solicite ao usuário que insira um número e exiba a tabuada desse número até 10.
+- [x] 6 - **Tabuada:** Criar um programa que solicite ao usuário que insira um número e exiba a tabuada desse número até 10.
 
 - [ ] 7 - **Ordenação de Números:**Criar um programa que peça ao usuário que insira três números e exiba-os em ordem crescente.
 
