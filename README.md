@@ -4,7 +4,7 @@
 
 - [x] 2 - **Soma de Dois Números:** Criar um programa que peça ao usuario dois numeros e exibe a soma deles.
 
-- [ ] 3 - **Calculadora Simples:** Criar um programa que permita ao usuário inserir dois números e escolher uma operação matemática básica ("+, -, *, /") para realizar com esses números.
+- [x] 3 - **Calculadora Simples:** Criar um programa que permita ao usuário inserir dois números e escolher uma operação matemática básica ("+, -, *, /") para realizar com esses números.
 
 - [ ] 4 - **Verificação de Número Primo:** Criar um programa que solicite um numero para o usuario e mostre se é numero primo ou não.
 
