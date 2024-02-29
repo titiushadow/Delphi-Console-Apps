@@ -12,7 +12,7 @@
 
 - [x] 6 - **Tabuada:** Criar um programa que solicite ao usuário que insira um número e exiba a tabuada desse número até 10.
 
-- [ ] 7 - **Ordenação de Números:**Criar um programa que peça ao usuário que insira três números e exiba-os em ordem crescente.
+- [x] 7 - **Ordenação de Números:**Criar um programa que peça ao usuário que insira três números e exiba-os em ordem crescente.
 
 - [ ] 8 - **Cálculo de Fatorial:** Criar um programa que solicite ao usuário que insira um número e calcule seu fatorial.
 
