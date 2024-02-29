@@ -16,6 +16,6 @@
 
 - [x] 8 - **Cálculo de Fatorial:** Criar um programa que solicite ao usuário que insira um número e calcule seu fatorial.
 
-- [ ] 9 - **Cálculo de Área:** Criar um programa que permita ao usuário inserir as dimensões de um retângulo (comprimento e largura) e calcule sua área.
+- [x] 9 - **Cálculo de Área:** Criar um programa que permita ao usuário inserir as dimensões de um retângulo (comprimento e largura) e calcule sua área.
 
 - [ ] 10 - **Contador de Vogais:** Criar um programa que solicite ao usuário que insira uma frase e conte quantas vogais (A, E, I, O, U) existem na frase.
