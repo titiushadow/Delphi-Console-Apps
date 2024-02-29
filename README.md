@@ -14,7 +14,7 @@
 
 - [x] 7 - **Ordenação de Números:**Criar um programa que peça ao usuário que insira três números e exiba-os em ordem crescente.
 
-- [ ] 8 - **Cálculo de Fatorial:** Criar um programa que solicite ao usuário que insira um número e calcule seu fatorial.
+- [x] 8 - **Cálculo de Fatorial:** Criar um programa que solicite ao usuário que insira um número e calcule seu fatorial.
 
 - [ ] 9 - **Cálculo de Área:** Criar um programa que permita ao usuário inserir as dimensões de um retângulo (comprimento e largura) e calcule sua área.
 
